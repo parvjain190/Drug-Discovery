@@ -10,9 +10,9 @@ Easy Integration: The script converts the retrieved data into a Pandas DataFrame
 ---
 
 ## Requirements:
-Python 3.6 or higher
-chembl-webresource-client
-pandas
+1. Python 3.6 or higher
+2. chembl-webresource-client
+3. pandas
 
 ---
 
